@@ -51,6 +51,12 @@ Run the unemployment report:
 python -m app.unemployment
 ```
 
+Run the stocks report:
+
+```sh
+python -m app.stocks
+```
+
 Send an example email:
 
 
